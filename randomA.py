@@ -21,9 +21,7 @@ Tal como randrange(a, b+1).
 """
 #Exemplo
 
-"""
 for i in range(10):
-    #x = random.randint(1,7)
+    x = random.randint(1,7)
     print(x)
 
-"""
