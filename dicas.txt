@@ -1,2 +1,7 @@
 No python atenção na indentação
 -----
+Porcentagem ( % )
+Assim temos:
+1) 4% de 32  = 0,04 * 32 = 1.28
+2) 15% de 180 = 0,15 * 180 = 27
+3) 18% de 150 = 0,18 * 150 = 27 
